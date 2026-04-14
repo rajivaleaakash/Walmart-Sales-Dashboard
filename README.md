@@ -5,7 +5,7 @@
 ## Dashboard Preview
 
 ### Executive Summary
-![Walmart-Sales-Dashboard](Report View/executive summary.png)
+![Walmart-Sales-Dashboard](Report View/executive summary.PNG)
 
 ### Product & Customer Insights
 ![Walmart-Sales-Dashboard](Report View/product & customer insights.png)
