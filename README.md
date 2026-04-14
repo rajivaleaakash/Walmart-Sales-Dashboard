@@ -5,7 +5,9 @@
 ## Dashboard Preview
 
 ### Executive Summary
-![Walmart-Sales-Dashboard](Report View/executive summary.PNG)
+<p align="center">
+  <img src="Report View/executive summary.png" alt="Walmart Sales Dashboard" width="800"/>
+</p>
 
 ### Product & Customer Insights
 ![Walmart-Sales-Dashboard](Report View/product & customer insights.png)
