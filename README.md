@@ -6,7 +6,7 @@
 
 ### Executive Summary
 <p align="center">
-  <img src="Report View/executive summary.png" alt="Walmart Sales Dashboard" width="800"/>
+  <img src="Report View/executive summary.PNG" alt="Walmart Sales Dashboard" width="800"/>
 </p>
 
 ### Product & Customer Insights
