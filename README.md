@@ -10,4 +10,6 @@
 </p>
 
 ### Product & Customer Insights
-![Walmart-Sales-Dashboard](Report View/product & customer insights.png)
+<p align="center">
+  <img src="Report View/product & customer insights.PNG" alt="Walmart Sales Dashboard" width="800"/>
+</p>
