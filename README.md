@@ -13,3 +13,8 @@
 <p align="center">
   <img src="Report View/product & customer insights.PNG" alt="Walmart Sales Dashboard" width="800"/>
 </p>
+
+### Data Model (Star Schema)
+<p align="center">
+  <img src="Model View/star-schema model.PNG" alt="Walmart Sales Dashboard" width="800"/>
+</p>
